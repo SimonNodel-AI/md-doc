@@ -16,6 +16,9 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@@code-bits/md-parser": [
+        "libs/md-parser/src/index.ts"
+      ]
     }
   },
   "exclude": [
